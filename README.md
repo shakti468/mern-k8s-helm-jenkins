@@ -84,3 +84,15 @@ helm install mern-release ./mern-chart
 <img width="1512" height="336" alt="image" src="https://github.com/user-attachments/assets/30dcf939-c905-4d2c-8a0f-4932656b17ac" />
 
 ---
+
+## After pods are ready:
+```bash
+kubectl get pods
+minikube service frontend
+
+```
+### Screenshots
+<img width="857" height="142" alt="image" src="https://github.com/user-attachments/assets/72c8d5c9-fc7d-4a66-b1d4-b7158a6f604b" />
+<img width="887" height="333" alt="image" src="https://github.com/user-attachments/assets/6525d0e3-bac4-47df-b9d7-78c963779bf1" />
+
+------
